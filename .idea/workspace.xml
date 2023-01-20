@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b048eab-74f4-4ca9-b874-29f8d8d56d3a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ecom-web-app" beforeDir="false" afterPath="$PROJECT_DIR$/../ecom-web-app" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2H2jVcvXAGel5epKfIZQuttWbyy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/J2EE_5ANNEE_PROJECTS/Activité pratique N° 3  Architectures Micro-services avec Spring Cloud Part 1 + Part 2/gateway&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;e60fbab200c2d886846fc34f60bd12f8&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="EurekaServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.eurekaservice.EurekaServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b048eab-74f4-4ca9-b874-29f8d8d56d3a" name="Changes" comment="" />
+      <created>1667490107703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667490107703</updated>
+      <workItem from="1667490112118" duration="1597000" />
+      <workItem from="1667511834654" duration="792000" />
+      <workItem from="1667549886386" duration="3155000" />
+      <workItem from="1667598252462" duration="589000" />
+      <workItem from="1667642368429" duration="3000" />
+      <workItem from="1667643425106" duration="771000" />
+      <workItem from="1667654004026" duration="3132000" />
+      <workItem from="1667728665534" duration="1029000" />
+      <workItem from="1667737906130" duration="756000" />
+      <workItem from="1667739996887" duration="615000" />
+      <workItem from="1667741642766" duration="829000" />
+      <workItem from="1667769545004" duration="338000" />
+      <workItem from="1667770063503" duration="1469000" />
+      <workItem from="1667773789917" duration="8000" />
+      <workItem from="1667993545535" duration="5000" />
+      <workItem from="1670450840845" duration="738000" />
+      <workItem from="1670451913249" duration="17000" />
+      <workItem from="1670610106202" duration="906000" />
+      <workItem from="1670614704048" duration="132000" />
+      <workItem from="1670624211374" duration="1154000" />
+      <workItem from="1670667940251" duration="1192000" />
+      <workItem from="1670872038006" duration="2673000" />
+      <workItem from="1670955483771" duration="1256000" />
+      <workItem from="1671018133468" duration="662000" />
+      <workItem from="1671034414784" duration="1721000" />
+      <workItem from="1671039672161" duration="2766000" />
+      <workItem from="1671055684957" duration="1289000" />
+      <workItem from="1671101931909" duration="754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/eureka_service$EurekaServiceApplication.ic" NAME="EurekaServiceApplication Coverage Results" MODIFIED="1667659260994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
